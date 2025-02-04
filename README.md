@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when working with nested routes in React Router Dom v6.  The problem arises when a nested route with a dynamic segment (':id' in this case) is not rendering correctly.  The solution provides a correction to resolve this rendering problem. 
